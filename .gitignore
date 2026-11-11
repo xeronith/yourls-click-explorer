@@ -1,0 +1,17 @@
+# Local configuration and secrets
+.env
+.env.local
+
+# Virtual environments
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Exported data (may contain real links and click counts)
+*.csv
+
+# macOS metadata
+.DS_Store
